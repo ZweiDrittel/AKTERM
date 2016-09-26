@@ -1,0 +1,11 @@
+Station: Arolsen-Volkardingen
+Beginn des repräsentativen Zeitraums:          01 01 2009
+Pfad für Winddatei:                            ..\Daten\Arolsen-V\Rohdaten\produkt_wind_Terminwerte_19900801_20141231_00197.txt
+Pfad für Bewölkungsdatei:                      ..\Daten\Arolsen-V\Rohdaten\produkt_synop_Terminwerte_19490101_20131101_02532.txt
+Pfad für Ergebnisdatei:                        ..\Daten\Arolsen-V\Ergebnisse\arolsen_c.akterm
+Verortung: Breite(Grad,Minuten,Sekunden):      51 19 18
+           Länge:		                9 03 21
+Stationshöhe der Windmessung(m):               365.0
+Messhöhe der Windmessung(m):                   12.0
+Rauhigkeitslänge am Ort der Windmessung(m):    0.72
+Referenzhöhe(m) (Standard=60m,städtisch=100m): 60

@@ -1,0 +1,11 @@
+Station:			Celle 00850
+Beginn der Zeitraums ist:	01 01 2009
+Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\Celle\Rohdaten\produkt_wind_Terminwerte_19740801_20150701_00850.txt
+Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\Celle\Rohdaten\produkt_synop_Terminwerte_19790103_20151231_00850.txt
+Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\Celle\celle2009.akterm
+Verortung Breite:	52 35 45
+	  Länge:	10 01 47
+Hoehe der Station:	39.0
+Messhoehe der Station:	10.0
+z0 an der Station [m]:	0.50
+h_ref [m]:		60.0

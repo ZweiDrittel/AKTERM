@@ -1,0 +1,6 @@
+-----------------------------
+Änderungen zu 1.0
+-----------------------------
+
+++ Lücken in Wolkendatei werden nicht als Fehler vermerkt, sondern interpoliert
+++ Qualitätsbytes angepasst...keine Stern mehr

@@ -1,0 +1,21 @@
+Programm erstellt .akterm Datei für bestimmte Messstation und anzugebendes repräsentatives Jahr.
+
+Benötigt wird dazu eine Input-Datei, in welcher die angegebenen Parameter zu modifizieren sind.
+
+WICHTIG! Die Input-Datei "input_akterm.txt" MUSS in dem Ordner "S:\Datenban\Wetter\Wetter_neu\Programme\akterm\" bleiben!
+AUCH WICHTIG! Die Pfade der anzugebenden Input-/Output-Dateien müssen in einem Verzeichnis liegen, deren Pfad keine Leerzeichen enthält.
+Im Zweifelsfall kurzzeitig Kopie in anderem Ordner erstellen.
+
+Vorgehen:
+1) Stündliche Messdaten einer Station für Wind und Bewölkung vom DWD herunterladen von:
+	"ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate/hourly/"
+   und abspeichern.
+2) Alle Parameter der "input_akterm.txt" entsprechend den Daten der Messstation anpassen.
+   HINWEIS: h_ref ist eine Parameter der das Vertikalprofil der Windgeschwindigkeit beschreibt und soll nach Wieringa [1976]
+   zwischen 60m und 100m liegen. Für eine städtische Messstation ist in der Regel 100m zu wählen,
+   bei einer Messstation in ebenem Gelände 60m.
+3) Programm durch Klick auf "akterm_vX-X.exe" startet das Programm und legt die .akterm im angegebenen Ordner ab.
+4) Zur besseren Dokumentation soll die "input_akterm.txt" im Entsprechenden Verzeichnis unter "S:\Datenban\Wetter\Wetter_neu\Messdaten\DWD\"
+   abgespeichert werden.
+
+Ra, 26.02.2016

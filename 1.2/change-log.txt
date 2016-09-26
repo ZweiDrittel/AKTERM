@@ -1,0 +1,11 @@
+-----------------------------
+Änderungen zu 1.1
+-----------------------------
+
+++ Programm bricht nicht mehr ab, wenn Zeitraum in WOlkendatei mit Fehlerwert beginnt
+++ Counter für fehlerhafte Wolkendaten gefixt
+
+------------------------------------------------------
+Gute Sache.
+
+07.07.2016, Ra
