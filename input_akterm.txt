@@ -1,11 +1,11 @@
-Station:			Magdeburg 03126
-Beginn der Zeitraums ist:	01 01 2009
-Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\Magdeburg\produkt_wind_Terminwerte_19570801_20151231_03126.txt
-Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\Magdeburg\produkt_synop_Terminwerte_19750701_20151231_03126.txt
-Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\Magdeburg\magdeburg2009.akterm
-Verortung Breite:	52 06 10
-	  Länge:	11 34 58
-Hoehe der Station:	76.0
-Messhoehe der Station:	15.0
-z0 an der Station [m]:	0.59
-h_ref [m]:		70.0
+Station:			BadLippspringe 03028
+Beginn der Zeitraums ist:	01 01 2012
+Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\BadLippspringe\produkt_wind_Terminwerte_19710401_20151231_03028.txt
+Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\BadLippspringe\produkt_synop_Terminwerte_19710401_20151231_03028.txt
+Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\BadLippspringe\badlippspringe2012.akterm
+Verortung Breite:	51 47 08
+	  Länge:	8 50 20
+Hoehe der Station:	157.0
+Messhoehe der Station:	10.0
+z0 an der Station [m]:	0.27
+h_ref [m]:		60.0
