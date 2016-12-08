@@ -1,11 +1,11 @@
-Station:			BadLippspringe 03028
-Beginn der Zeitraums ist:	01 01 2012
-Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\BadLippspringe\produkt_wind_Terminwerte_19710401_20151231_03028.txt
-Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\BadLippspringe\produkt_synop_Terminwerte_19710401_20151231_03028.txt
-Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\BadLippspringe\badlippspringe2012.akterm
-Verortung Breite:	51 47 08
-	  Länge:	8 50 20
-Hoehe der Station:	157.0
-Messhoehe der Station:	10.0
-z0 an der Station [m]:	0.27
+Station:			Genthin 01605
+Beginn der Zeitraums ist:	01 01 2009
+Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\Genthin\produkt_wind_Terminwerte_19820101_20151231_01605.txt
+Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\Genthin\produkt_synop_Terminwerte_19900612_20151231_01605.txt
+Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\Genthin\genthin2009.akterm
+Verortung Breite:	52 23 15
+	  Länge:	12 09 36
+Hoehe der Station:	35.0
+Messhoehe der Station:	12.0
+z0 an der Station [m]:	0.53
 h_ref [m]:		60.0

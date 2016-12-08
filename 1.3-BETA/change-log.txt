@@ -1,0 +1,14 @@
+-----------------------------
+Änderungen zu 1.2
+-----------------------------
+
+-- Grafische Oberfläche
+
+-- Koordinaten in Dezimalschreibweise verlangen
+
+-- Neue Kommentarzeile einfügen mit Erstellungsdatum der .akterm
+
+------------------------------------------------------
+Gute Sache.
+
+08.12.2016, Ra
