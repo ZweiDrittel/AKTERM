@@ -1,11 +1,11 @@
-Station:			Genthin 01605
-Beginn der Zeitraums ist:	01 01 2009
-Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\Genthin\produkt_wind_Terminwerte_19820101_20151231_01605.txt
-Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\Genthin\produkt_synop_Terminwerte_19900612_20151231_01605.txt
-Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\Genthin\genthin2009.akterm
-Verortung Breite:	52 23 15
-	  Länge:	12 09 36
-Hoehe der Station:	35.0
-Messhoehe der Station:	12.0
-z0 an der Station [m]:	0.53
+Station:			Belm 00342
+Beginn der Zeitraums ist:	01 01 2011
+Pfad der Wind-Datei: 		S:\Datenban\Wetter\Messdaten\DWD\Belm\produkt_wind_Terminwerte_20101201_20151231_00342.txt
+Pfad der Wolken-Datei:		S:\Datenban\Wetter\Messdaten\DWD\Belm\produkt_synop_Terminwerte_20101201_20151231_00342.txt
+Pfad der Output-Datei:          S:\Datenban\Wetter\AKTERM\Belm\belm2011.akterm
+Verortung Breite:	52 19 01
+	  Länge:	08 10 09
+Hoehe der Station:	103.3
+Messhoehe der Station:	10.0
+z0 an der Station [m]:	0.23
 h_ref [m]:		60.0
